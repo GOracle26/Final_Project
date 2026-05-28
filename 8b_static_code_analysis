@@ -1,0 +1,6 @@
+theia@theia-fernandovvaz:~/final_project$ pylint server.py 
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+theia@theia-fernandovvaz:~/final_project$ 
