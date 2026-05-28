@@ -1,0 +1,7 @@
+theia@theia-fernandovvaz:~/final_project$ python3
+Python 3.10.12 (main, Mar  3 2026, 11:56:32) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from EmotionDetection.emotion_detection import emotion_detector
+>>> emotion_detector("Me encanta esta nueva tecnologia.")
+{'anger': 0.022171516, 'disgust': 0.011488908, 'fear': 0.054874126, 'joy': 0.8239606, 'sadness': 0.09408841, 'dominant_emotion': 'joy'}
+>>> 
